@@ -15,3 +15,5 @@ function countCategoriesAndItems() {
   }
 
   countCategoriesAndItems();
+
+  console.log(hello)
